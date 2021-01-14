@@ -1,0 +1,11 @@
+## Checking Setup
+
+git config --global -l
+git config --system -l 
+git config --local -l ## repo specific
+
+
+## Editing setup
+git config --system -e 
+
+git config --system [section].[variable] [value]
