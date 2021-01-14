@@ -1,8 +1,8 @@
 ## Checking Setup
 
-git config --system -l  ## System wide 
-git config --global -l  ## User specific
-git config --local -l   ## repo specific
+git config --system -l  ## System wide settings. config resides in install location
+git config --global -l  ## User specific settings. config resides in user's home .git folder
+git config --local -l   ## repo specific settings. configs reside in repo's .git folder
 
 
 ## Editing setup
