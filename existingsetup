@@ -1,8 +1,8 @@
 ## Checking Setup
 
-git config --global -l
-git config --system -l 
-git config --local -l ## repo specific
+git config --system -l  ## System wide 
+git config --global -l  ## User specific
+git config --local -l   ## repo specific
 
 
 ## Editing setup
